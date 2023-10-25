@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\owner\desktop\10_29\10-29homework\4.15\3.17\main.c(9): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\owner\desktop\10_29\10-29homework\4.15\3.17\main.c(10): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\owner\desktop\10_29\10-29homework\4.15\3.17\main.c(11): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\owner\desktop\10_29\10-29homework\4.15\3.17\main.c(12): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\owner\desktop\10_29\10-29homework\4.15\3.17\main.c(13): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  3.17.vcxproj -> C:\Users\Owner\Desktop\10_29\10-29homework\4.15\Debug\3.17.exe
